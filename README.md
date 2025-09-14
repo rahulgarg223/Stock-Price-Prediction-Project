@@ -15,9 +15,9 @@ It uses historical stock price data of multiple companies and focuses specifical
 ---
 
 ##  Project Structure
-├── stock_price_prediction.py # Main script
-├── all_stocks_5yr.csv # Dataset (5 years of stock data)
-└── README.md # Project documentation
+- stock_price_prediction.py # Main script
+- all_stocks_5yr.csv # Dataset (5 years of stock data)
+- README.md # Project documentation
 
 
 ---
